@@ -41,7 +41,7 @@ File: `data/multi_store_inventory_dataset.csv`
 - Enabled targeted inventory control recommendations
 
 ## Dashboard
-![Inventory Dashboard](tableau/inventory_dashboard.png)
+![Inventory Dashboard](Tableau/inventory_dashboard.png)
 
 Tableau Public Link: (https://public.tableau.com/app/profile/harshil.vasavada7838/viz/Inventory_Analytics_Luxury_Retail/Dashboard1?publish=yes)
 
